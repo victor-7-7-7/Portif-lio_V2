@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="480" viewBox="0 0 850 480">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#111924"/><stop offset="1" stop-color="#06090f"/></linearGradient><linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ed9c69"/><stop offset="1" stop-color="#a24c34"/></linearGradient><linearGradient id="light" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e5e7e7"/><stop offset="1" stop-color="#777e84"/></linearGradient><radialGradient id="glow"><stop stop-color="#b5593f" stop-opacity=".32"/><stop offset="1" stop-color="#b5593f" stop-opacity="0"/></radialGradient><filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter></defs>
+<rect width="850" height="480" fill="#08111b"/>
+<rect x="30" y="28" width="790" height="424" rx="18" fill="url(#bg)" stroke="#293340" stroke-width="2"/>
+<rect x="30" y="28" width="790" height="37" rx="18" fill="#1d2530"/>
+<path d="M30 65H820" stroke="#36414c"/>
+<circle cx="52" cy="46" r="5" fill="#bd6e5f"/><circle cx="69" cy="46" r="5" fill="#c29c68"/><circle cx="86" cy="46" r="5" fill="#688c77"/>
+<rect x="109" y="37" width="280" height="18" rx="9" fill="#0e1721"/><text x="126" y="49.5" fill="#698091" font-size="10" font-family="Arial,sans-serif">pagelsjiujitsu.com.br</text>
+<ellipse cx="632" cy="268" rx="212" ry="196" fill="url(#glow)"/>
+<circle cx="634" cy="267" r="144" fill="none" stroke="#a04f3c" stroke-opacity=".20" stroke-width="1"/><circle cx="634" cy="267" r="113" fill="none" stroke="#a04f3c" stroke-opacity=".27" stroke-width="1"/>
+<g opacity=".15" stroke="#c28464"><path d="M462 120 795 431M489 102 807 393M438 155 763 444"/></g>
+<text x="77" y="120" fill="#f8f1ec" font-size="20" font-family="Arial,sans-serif" font-weight="700" letter-spacing="1">PAGELS</text><text x="77" y="137" fill="#c66c54" font-size="8.5" font-family="Arial,sans-serif" letter-spacing="3">BRAZILIAN JIU-JITSU</text>
+<g font-family="Arial,sans-serif" font-size="9.5" font-weight="700" fill="#c0b5b3"><text x="405" y="121">INÍCIO</text><text x="477" y="121">MODALIDADES</text><text x="590" y="121">SOBRE</text></g><rect x="670" y="101" width="102" height="30" rx="4" fill="#b85d44"/><text x="690" y="120.5" fill="white" font-family="Arial,sans-serif" font-size="9" font-weight="bold">AGENDAR AULA</text>
+<text x="78" y="191" fill="#cf8268" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" font-weight="700">BEM-VINDO AO TATAME</text>
+<text x="74" y="249" fill="#f7f5f3" font-family="Arial,sans-serif" font-size="45" font-weight="900">SUA EVOLUÇÃO</text><text x="74" y="299" fill="#f7f5f3" font-family="Arial,sans-serif" font-size="45" font-weight="900">COMEÇA AQUI.</text>
+<text x="78" y="333" fill="#aeb4b8" font-family="Arial,sans-serif" font-size="13">Disciplina, técnica e comunidade.</text><text x="78" y="354" fill="#aeb4b8" font-family="Arial,sans-serif" font-size="13">Conheça nossas modalidades.</text><rect x="78" y="377" width="171" height="39" rx="6" fill="url(#orange)"/><text x="101" y="401.5" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="bold">CONHECER ACADEMIA  →</text>
+<!-- abstract martial-arts gi, illustrative and original -->
+<g transform="translate(565 160)"><path d="M59 35 112 47 152 78 191 170 159 189 133 153 142 257 9 257 20 153-7 189-39 170 1 79 37 47Z" fill="url(#light)" stroke="#eef0f1" stroke-opacity=".46" stroke-width="2"/><path d="M37 47 78 155 18 257 51 257 90 171 114 49 89 63 79 97 59 64Z" fill="#f0f1ef"/><path d="M112 47 79 155 142 257 107 257 67 168 37 47 62 63 79 97 90 62Z" fill="#bbc1c6"/><path d="M21 179 133 179" stroke="#282c30" stroke-width="15"/><path d="M75 173 49 217M79 175 111 228" stroke="#161b1e" stroke-width="8"/><circle cx="77" cy="5" r="40" fill="#27272a"/><path d="M40-7Q77-47 112-8" fill="none" stroke="#4f4644" stroke-width="7"/><path d="M25 61 14 177M129 57 163 177" stroke="#717982" stroke-width="5" opacity=".4"/></g>
+</svg>
